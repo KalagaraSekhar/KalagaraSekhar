@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Purna Venkata Sekhar</h1> <h3 align="center"> Aspiring Software Engineer • Full Stack Developer • AI, Data Science and Machine Learning Enthusiast </h3> <p align="center"> Passionate about building scalable software solutions, AI-powered applications, and cloud technologies while continuously improving my problem-solving skills. </p>
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Purna Venkata Sekhar</h1>
+
+<h3 align="center">
+Aspiring Software Engineer • Full Stack Developer • AWS Certified Cloud Practitioner • AI, Data Science & Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable software solutions, AI-powered applications, and cloud technologies while continuously improving my problem-solving skills.
+</p>
+
+---
+
+# 🚀 About Me
 
 🎓 B.Tech in Computer Science & Engineering
+
+☁️ **AWS Certified Cloud Practitioner**
 
 💻 Full Stack Developer specializing in React & Spring Boot
 
@@ -12,6 +25,7 @@
 🚀 Hackathon Participant & Team Leader
 
 🌱 Currently exploring
+
 - Generative AI
 - Machine Learning
 - Cloud Computing
@@ -20,7 +34,30 @@
 
 ---
 
-## 💼 Current Focus
+# 🏅 AWS Certification
+
+<p align="center">
+<img src="./Assets/aws-certified-cloud-practitioner-badge.png" width="180"/>
+</p>
+
+## AWS Certified Cloud Practitioner
+
+Successfully earned the **AWS Certified Cloud Practitioner** certification, demonstrating foundational knowledge of Amazon Web Services (AWS), cloud computing concepts, security, networking, pricing, and core AWS services.
+
+### Certification Details
+
+- **Issued By:** Amazon Web Services (AWS)
+- **Issued:** July 20, 2026
+- **Valid Until:** July 20, 2029
+- **Status:** Active
+
+### Credential Verification
+
+🔗 https://cp.certmetrics.com/amazon/en/public/verify/credential/996f52b4d83948079aba33cb0059a60d
+
+---
+
+# 💼 Current Focus
 
 🔹 Building AI-powered applications
 
@@ -28,7 +65,7 @@
 
 🔹 Developing scalable Spring Boot applications
 
-🔹 Learning Advanced AWS Services
+🔹 Designing Cloud-Native Applications on AWS
 
 🔹 Preparing for Software Development Engineer (SDE) roles
 
@@ -36,7 +73,7 @@
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 - C
 - C++
@@ -44,7 +81,9 @@
 - Python
 - SQL
 
-### 🌐 Frontend
+---
+
+## 🌐 Frontend
 
 - HTML5
 - CSS3
@@ -52,29 +91,41 @@
 - React.js
 - Tailwind CSS
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend
 
 - Spring Boot
 - REST APIs
 - Firebase Authentication
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 - MySQL
 - Amazon RDS
 - Firestore
 
-### ☁️ Cloud
+---
+
+## ☁️ Cloud
 
 - AWS EC2
 - AWS IAM
 - AWS S3
+- AWS Lambda
 - AWS VPC
+- AWS RDS
 - AWS CloudFormation
+- Elastic Load Balancer (ELB)
 - Auto Scaling
-- Elastic Load Balancer
+- Route 53
+- CloudWatch
 
-### 🔧 Tools & Technologies
+---
+
+## 🔧 Tools & Technologies
 
 - Git
 - GitHub
@@ -83,8 +134,8 @@
 - Maven
 - VS Code
 - Eclipse
-- Figma
 - Postman
+- Figma
 
 ---
 
@@ -149,6 +200,8 @@ A data analytics project focused on understanding investor behavior and investme
 
 # 🏆 Achievements
 
+🏅 AWS Certified Cloud Practitioner
+
 🏅 Cisco Data Analytics Essentials
 
 🏅 Cisco Introduction to Modern AI
@@ -164,38 +217,35 @@ A data analytics project focused on understanding investor behavior and investme
 # 📚 Currently Learning
 
 - Large Language Models (LLMs)
-
 - Machine Learning
-
 - Generative AI
-
 - Spring Security
-
 - Microservices
-
 - Docker & Kubernetes
-
-- Advanced AWS
+- AWS Solutions Architect Associate
+- Advanced AWS Services
 
 ---
 
 # 🎯 Career Objective
 
-To build impactful software solutions that solve real-world problems using Artificial Intelligence, Cloud Computing, and Modern Software Engineering practices while contributing to innovative engineering teams.
+To build impactful software solutions that solve real-world problems using Artificial Intelligence, Cloud Computing, and Modern Software Engineering while contributing to innovative engineering teams.
 
 ---
 
 # 📈 GitHub Goals (2026)
 
-✅ 100+ GitHub Contributions
+✅ Earn More AWS Certifications
+
+✅ 1000+ GitHub Contributions
 
 🎯 Build 10+ Production-Level Projects
 
 🎯 Master System Design
 
-🎯 Become an SDE
+🎯 Become a Software Development Engineer (SDE)
 
-🎯 Learn Advanced AI & Cloud Technologies
+🎯 Build Scalable Cloud-Native Applications
 
 ---
 
@@ -207,11 +257,13 @@ To build impactful software solutions that solve real-world problems using Artif
 
 🏆 HackerRank
 
-Problem Solving | DSA | Algorithms | Competitive Programming
+**Problem Solving | DSA | Algorithms | Competitive Programming**
 
 ---
 
 # 📜 Certifications
+
+🥇 AWS Certified Cloud Practitioner
 
 📊 Cisco Data Analytics Essentials
 
@@ -221,19 +273,23 @@ Problem Solving | DSA | Algorithms | Competitive Programming
 
 # 🤝 Let's Connect
 
-📧 Email: 2400032407@kluniversity.in
+📧 **Email:** 2400032407@kluniversity.in
 
-💼 LinkedIn:
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/purna-venkata-sekhar-kalagara-099885348/
 
-🌐 Portfolio:
-Coming Soon
-
-🐙 GitHub:
+🐙 **GitHub:**  
 https://github.com/KalagaraSekhar
+
+🌐 **Portfolio:**  
+Coming Soon
 
 ---
 
+<h3 align="center">
 ⭐ Thanks for visiting my profile!
+</h3>
 
-"Code. Learn. Build. Repeat."
+<p align="center">
+<b>"Code. Learn. Build. Repeat."</b>
+</p>
